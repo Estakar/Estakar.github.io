@@ -1,6 +1,8 @@
 body {
+    background-color: rgb(47, 53, 59);
+    color: rgb(151, 154, 170);
 
-    color: rgb(65, 105, 225);
+   /* color: rgb(65, 105, 225); */
 }
 
 footer {
